@@ -1,0 +1,14 @@
+[
+    {
+"name": "project1",
+"live": "https://app.herokuapp.com/whatever",
+"git": "http://www.github.com/username/reponame",
+"image": ""
+    },
+    {
+"name": "A Simple Reddit Scrapper and Discord Bot",
+"live": "https://project2jc.herokuapp.com/",
+"git": "https://github.com/jcari-rgb/project2",
+"image": ""
+    }
+]
